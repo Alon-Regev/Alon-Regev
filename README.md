@@ -3,7 +3,7 @@ I'm Alon Regev, and I like working on projects in my free time!
 
 I especially like programming in Assembly, C and C++.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alon-Regev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alon-Regev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Alon-Regev/Alon-Regev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
